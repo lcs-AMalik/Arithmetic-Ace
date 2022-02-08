@@ -16,7 +16,7 @@ struct Quiz {
 
 let listOfQuiz = [
 
-    Quiz(answer: "5", question: "5 x 1")
+    Quiz(answer: "5", question:  "5 x 1")
     ,
     Quiz(answer: "10", question: "5 x 2")
     ,
